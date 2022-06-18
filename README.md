@@ -14,4 +14,4 @@ It's a Python(Scrapy) based scraper to scrape Crypto data from [Coinmarketcap](h
 
 Let me know in case of any issues or queries.<br />
 Thanks & Regards<br />
-@[TalhaPythoneer](https://www.talhapythoneer.com/)
+[TalhaPythoneer](https://www.talhapythoneer.com/)
