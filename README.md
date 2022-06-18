@@ -12,6 +12,6 @@ It's a Python(Scrapy) based scraper to scrape Crypto data from [Coinmarketcap](h
 - Now run the script. It will take around 20 minutes to get data for all cryptocurrencies.
 
 
-Let me know in case of any issues or queries.
-Thanks & Regards
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
 @[TalhaPythoneer](https://www.talhapythoneer.com/)
